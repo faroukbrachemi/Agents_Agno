@@ -1,0 +1,13 @@
+duckduckgo-search
+pandas
+lancedb
+agno
+python-dotenv
+yfinance
+packaging
+fastapi
+uvicorn
+groq
+openai 
+deepseek
+anthropic
